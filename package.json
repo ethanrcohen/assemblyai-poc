@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "assemblyai": "^4.3.2",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "mic": "^2.1.2"
   }
 }
