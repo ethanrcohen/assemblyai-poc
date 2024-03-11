@@ -1,0 +1,14 @@
+{
+  "name": "assemblyai-poc",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "author": "Ethan Cohen <ecohen56@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc ",
+    "start": "node lib/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.25"
+  }
+}
